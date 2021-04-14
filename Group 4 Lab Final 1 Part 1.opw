@@ -1,0 +1,10 @@
+[RESOURCES]
+Processing
+Processing Operation
+[VARIABLES]
+Queue Waiting.NumberIn
+Queue Waiting.NumberOut
+New Operator.NumberOut
+Exit.NumberOut
+New Operator.NumberIn
+Part Types 1 arrival.NumberOut

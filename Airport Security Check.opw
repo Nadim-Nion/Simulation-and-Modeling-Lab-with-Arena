@@ -1,0 +1,16 @@
+[RESOURCES]
+Special Security Guard
+Shammi
+Sohag
+Rakib
+[VARIABLES]
+Security Check for VIP.NumberIn
+Security Check for VIP.NumberOut
+Pass Security?.NumberOut True
+Security Check for Regular.NumberIn
+Security Check for Regular.NumberOut
+VIP Passenger.NumberOut
+Pass Security?.NumberOut False
+Cleared.NumberOut
+Denied.NumberOut
+Regular Passenger.NumberOut

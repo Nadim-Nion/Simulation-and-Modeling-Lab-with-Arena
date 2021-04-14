@@ -1,0 +1,59 @@
+SIMAN Run Controller.
+
+2887.8441 Hours>
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 3/ 4/2021
+
+Replication ended at time      : 2887.8441 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Part Types 1.VATime                         9.3592     (Insuf)    3.6331     14.788        245    
+Part Types 1.NVATime                        .00000     (Insuf)    .00000     .00000        245    
+Part Types 1.WaitTime                       .03280     (Insuf)    .00000     2.5306        245    
+Part Types 1.TranTime                       .00000     (Insuf)    .00000     .00000        245    
+Part Types 1.OtherTime                      .00000     (Insuf)    .00000     .00000        245    
+Part Types 1.TotalTime                      9.3920     (Insuf)    3.6331     14.788        245    
+New Operator.Queue.WaitingTime              .03028     (Insuf)    .00000     2.3441        245    
+Queue Waiting.Queue.WaitingTime             .00250     (Insuf)    .00000     .61604        246    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part Types 1.WIP                            .79932     .03453     .00000     2.0000     1.0000    
+Processing.NumberBusy                       .40906     .01869     .00000     1.0000     1.0000    
+Processing.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Processing.Utilization                      .40906     .01869     .00000     1.0000     1.0000    
+Processing Operation.NumberBusy             .38748     (Corr)     .00000     1.0000     .00000    
+Processing Operation.NumberScheduled        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Processing Operation.Utilization            .38748     (Corr)     .00000     1.0000     .00000    
+New Operator.Queue.NumberInQueue            .00257     (Insuf)    .00000     1.0000     .00000    
+Queue Waiting.Queue.NumberInQueue            2.1332E-4 (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part Types 1.NumberIn                       246.00    
+Part Types 1.NumberOut                      245.00    
+Processing.NumberSeized                     246.00    
+Processing.ScheduledUtilization             .40906    
+Processing Operation.NumberSeized           245.00    
+Processing Operation.ScheduledUtilization   .38748    
+System.NumberOut                            245.00    
+
+
+Simulation run time: 0.33 minutes.
+Simulation run complete.

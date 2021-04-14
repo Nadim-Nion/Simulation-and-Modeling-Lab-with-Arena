@@ -1,0 +1,20 @@
+[RESOURCES]
+Neil
+Special Care
+Jean
+Kathy
+Mary
+Sue
+[VARIABLES]
+Purchasing Plate.NumberOut
+Exit.NumberOut
+Leave Office.NumberOut
+Individual B Arrival.NumberOut
+Individual A Arrival.NumberOut
+Decide.NumberOut False
+Decide.NumberOut True
+Renew or Apply License.NumberOut
+Renew or Apply License.NumberIn
+Daily Special Care Service.NumberOut
+Daily Special Care Service.NumberIn
+Purchasing Plate.NumberIn

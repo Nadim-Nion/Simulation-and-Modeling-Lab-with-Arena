@@ -1,0 +1,15 @@
+[RESOURCES]
+both repair and inspect
+verify product
+repair
+[VARIABLES]
+Dispose.NumberOut
+inspection station.NumberOut
+Decision.NumberOut False
+Decision.NumberOut True
+repair station.NumberOut
+Combined.NumberIn
+repair station.NumberIn
+inspection station.NumberIn
+Combined.NumberOut
+Arrival.NumberOut

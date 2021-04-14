@@ -1,0 +1,12 @@
+[RESOURCES]
+Verify
+Repair
+[VARIABLES]
+Dispose.NumberOut
+Inspection Station.NumberOut
+Arrive.NumberOut
+Decision.NumberOut False
+Decision.NumberOut True
+Repair Station.NumberOut
+Repair Station.NumberIn
+Inspection Station.NumberIn

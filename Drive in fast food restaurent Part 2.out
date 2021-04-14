@@ -1,0 +1,51 @@
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/ 2/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 2/2021
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Total Time                                  .08548     (Insuf)     2.4891E-4 .38551        241    
+Car.VATime                                  .05324     (Insuf)     2.4891E-4 .26789        241    
+Car.NVATime                                 .00000     (Insuf)    .00000     .00000        241    
+Car.WaitTime                                .03223     (Insuf)    .00000     .29566        241    
+Car.TranTime                                .00000     (Insuf)    .00000     .00000        241    
+Car.OtherTime                               .00000     (Insuf)    .00000     .00000        241    
+Car.TotalTime                               .08548     (Insuf)     2.4891E-4 .38551        241    
+Service Time.Queue.WaitingTime              .03223     (Insuf)    .00000     .29566        241    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Car.WIP                                     .85834     .56576     .00000     12.000     .00000    
+Cook.NumberBusy                             .53465     (Insuf)    .00000     4.0000     .00000    
+Cook.NumberScheduled                        1.4984     (Insuf)    .00000     4.0000     1.0000    
+Cook.Utilization                            .25236     (Insuf)    .00000     1.0000     .00000    
+Service Time.Queue.NumberInQueue            .32369     (Insuf)    .00000     8.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Car.NumberIn                                241.00    
+Car.NumberOut                               241.00    
+Cook.NumberSeized                           241.00    
+Cook.ScheduledUtilization                   .35680    
+System.NumberOut                            241.00    
+
+
+Simulation run time: 0.27 minutes.
+Simulation run complete.

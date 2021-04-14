@@ -1,0 +1,65 @@
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/20/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 2/20/2021
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tally 1                                     14.949     (Insuf)    7.0000     33.538        126    
+product.VATime                              7.5096     (Insuf)    7.0000     10.428        148    
+product.NVATime                             .00000     (Insuf)    .00000     .00000        148    
+product.WaitTime                            8.0818     (Insuf)    .00000     26.538        148    
+product.TranTime                            .00000     (Insuf)    .00000     .00000        148    
+product.OtherTime                           .00000     (Insuf)    .00000     .00000        148    
+product.TotalTime                           15.591     (Insuf)    7.0000     33.538        148    
+repair station.Queue.WaitingTime            8.0520     (Insuf)    .00000     26.538        149    
+inspection station.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000        149    
+Combined.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000         22    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+product.WIP                                 3.2169     (Insuf)    .00000     9.0000     1.0000    
+both repair and inspect.NumberBusy          .10476     (Insuf)    .00000     1.0000     .00000    
+both repair and inspect.NumberScheduled     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+both repair and inspect.Utilization         .10476     (Insuf)    .00000     1.0000     .00000    
+verify product.NumberBusy                   .61809     (Insuf)    .00000     1.0000     1.0000    
+verify product.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+verify product.Utilization                  .61809     (Insuf)    .00000     1.0000     1.0000    
+repair.NumberBusy                           .82778     (Insuf)    .00000     1.0000     .00000    
+repair.NumberScheduled                      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+repair.Utilization                          .82778     (Insuf)    .00000     1.0000     .00000    
+repair station.Queue.NumberInQueue          1.6663     (Insuf)    .00000     7.0000     .00000    
+inspection station.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+Combined.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+product.NumberIn                            149.00    
+product.NumberOut                           148.00    
+both repair and inspect.NumberSeized        22.000    
+both repair and inspect.ScheduledUtilizati  .10476    
+verify product.NumberSeized                 149.00    
+verify product.ScheduledUtilization         .61809    
+repair.NumberSeized                         149.00    
+repair.ScheduledUtilization                 .82778    
+System.NumberOut                            148.00    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.

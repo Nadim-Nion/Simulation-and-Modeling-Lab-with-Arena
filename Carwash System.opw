@@ -1,0 +1,7 @@
+[RESOURCES]
+Carwash
+[VARIABLES]
+Carwash System.NumberOut
+Carwash System.NumberIn
+Dispose.NumberOut
+Vehicle Arrive.NumberOut

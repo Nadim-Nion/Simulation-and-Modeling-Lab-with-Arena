@@ -1,0 +1,7 @@
+[RESOURCES]
+Cook
+[VARIABLES]
+Service Time.NumberOut
+Service Time.NumberIn
+Exit.NumberOut
+Car Arrival.NumberOut

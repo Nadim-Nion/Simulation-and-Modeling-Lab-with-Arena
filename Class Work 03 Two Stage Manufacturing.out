@@ -1,0 +1,52 @@
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 2/14/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 2/14/2021
+
+Replication ended at time      : 30.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Customer.VATime                             .08966     (Insuf)    .03916     .13321        231    
+Customer.NVATime                            .00000     (Insuf)    .00000     .00000        231    
+Customer.WaitTime                           .18083     (Insuf)    .00000     .90335        231    
+Customer.TranTime                           .00000     (Insuf)    .00000     .00000        231    
+Customer.OtherTime                          .00000     (Insuf)    .00000     .00000        231    
+Customer.TotalTime                          .27050     (Insuf)    .03916     .97909        231    
+Booth.Queue.WaitingTime                     .09874     (Insuf)    .00000     .46316        232    
+Queue.Queue.WaitingTime                     .08515     (Insuf)    .00000     .44019        235    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Customer.WIP                                2.1455     (Corr)     .00000     13.000     5.0000    
+Work Completion.NumberBusy                  .70048     (Insuf)    .00000     1.0000     1.0000    
+Work Completion.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Work Completion.Utilization                 .70048     (Insuf)    .00000     1.0000     1.0000    
+Booth.Queue.NumberInQueue                   .77373     (Insuf)    .00000     6.0000     3.0000    
+Queue.Queue.NumberInQueue                   .67130     (Corr)     .00000     7.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Customer.NumberIn                           236.00    
+Customer.NumberOut                          231.00    
+Work Completion.NumberSeized                467.00    
+Work Completion.ScheduledUtilization        .70048    
+System.NumberOut                            231.00    
+
+
+Simulation run time: 0.25 minutes.
+Simulation run complete.

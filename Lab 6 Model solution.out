@@ -1,0 +1,81 @@
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/ 3/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 3/2021
+
+Replication ended at time      : 32.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Total Time                                  1.0106     (Corr)     .05062     13.130        639    
+Part B.VATime                               .17381     (Insuf)    .05225     3.8749        262    
+Part B.NVATime                              .00000     (Insuf)    .00000     .00000        262    
+Part B.WaitTime                             1.0619     (Insuf)    .00000     12.084        262    
+Part B.TranTime                             .00000     (Insuf)    .00000     .00000        262    
+Part B.OtherTime                            .00000     (Insuf)    .00000     .00000        262    
+Part B.TotalTime                            1.2357     (Insuf)    .06153     13.130        262    
+Part A.VATime                               .15519     .01966     .05062     2.1739        377    
+Part A.NVATime                              .00000     .00000     .00000     .00000        377    
+Part A.WaitTime                             .69911     (Corr)     .00000     11.665        377    
+Part A.TranTime                             .00000     .00000     .00000     .00000        377    
+Part A.OtherTime                            .00000     .00000     .00000     .00000        377    
+Part A.TotalTime                            .85430     (Corr)     .05062     12.070        377    
+Rework.Queue.WaitingTime                    6.8127     (Insuf)    .00000     11.633         41    
+Part B Prep.Queue.WaitingTime               .60417     (Insuf)    .00000     2.3626        277    
+Part A Prep.Queue.WaitingTime               .15416     (Corr)     .00000     .76342        389    
+Sealer.Queue.WaitingTime                    .09769     (Corr)     .00000     .40246        664    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Part B.WIP                                  14.128     (Corr)     .00000     49.000     46.000    
+Part A.WIP                                  11.770     (Corr)     .00000     26.000     13.000    
+Rework Resource.NumberBusy                  .96451     (Insuf)    .00000     1.0000     1.0000    
+Rework Resource.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Rework Resource.Utilization                 .96451     (Insuf)    .00000     1.0000     1.0000    
+Sealer Resource.NumberBusy                  .86172     (Insuf)    .00000     1.0000     1.0000    
+Sealer Resource.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sealer Resource.Utilization                 .86172     (Insuf)    .00000     1.0000     1.0000    
+Part B Resource.NumberBusy                  .71405     (Insuf)    .00000     1.0000     1.0000    
+Part B Resource.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Part B Resource.Utilization                 .71405     (Insuf)    .00000     1.0000     1.0000    
+Part A Resource.NumberBusy                  .81144     (Insuf)    .00000     1.0000     1.0000    
+Part A Resource.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Part A Resource.Utilization                 .81144     (Insuf)    .00000     1.0000     1.0000    
+Rework.Queue.NumberInQueue                  12.299     (Insuf)    .00000     24.000     23.000    
+Part B Prep.Queue.NumberInQueue             6.3439     (Corr)     .00000     34.000     31.000    
+Part A Prep.Queue.NumberInQueue             1.8761     (Corr)     .00000     11.000     1.0000    
+Sealer.Queue.NumberInQueue                  2.0271     (Corr)     .00000     10.000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Part B.NumberIn                             308.00    
+Part B.NumberOut                            262.00    
+Part A.NumberIn                             390.00    
+Part A.NumberOut                            377.00    
+Rework Resource.NumberSeized                41.000    
+Rework Resource.ScheduledUtilization        .96451    
+Sealer Resource.NumberSeized                664.00    
+Sealer Resource.ScheduledUtilization        .86172    
+Part B Resource.NumberSeized                277.00    
+Part B Resource.ScheduledUtilization        .71405    
+Part A Resource.NumberSeized                389.00    
+Part A Resource.ScheduledUtilization        .81144    
+System.NumberOut                            639.00    
+
+
+Simulation run time: 1.12 minutes.
+Simulation run complete.

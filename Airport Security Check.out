@@ -1,0 +1,102 @@
+
+----------------------------------------------------------------------
+19114:CCREAT
+A runtime error was detected at time 2.1154779 at the following block:
+
+ *    1 7$              CREATE,1,MinutesToBaseTime(0.0),Regular:
+                            MinutesToBaseTime(EXPO(1)):
+                            NEXT(8$);
+
+Maximum of 150 entities exceeded.
+Possible causes:
+- A logic problem in your model is creating too many entities or not
+  disposing them. The run controller may be helpful in finding the problem.
+- You are in demo mode and have exceeded the entity limit. The commercial
+  version is required to run large models.
+- You have set an entity limit on the DISCRETE element that is too small.
+  Remove the limit or set it to a larger number.
+- You have exceeded the standard array s 
+pace for models. Use the Array Sizes
+  page in the Run/Setup dialog to increase the RSET space allocated and
+  recheck your model.
+----------------------------------------------------------------------
+
+
+SIMAN Run Controller.
+
+2.1154779 Hours>
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/11/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/11/2021
+
+Replication ended at time      : 2.1154779 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+VIP.VATime                                  .04998     (Insuf)    .03464     .06555         40    
+VIP.NVATime                                 .00000     (Insuf)    .00000     .00000         40    
+VIP.WaitTime                                .03673     (Insuf)    .00000     .20005         40    
+VIP.TranTime                                .00000     (Insuf)    .00000     .00000         40    
+VIP.OtherTime                               .00000     (Insuf)    .00000     .00000         40    
+VIP.TotalTime                               .08671     (Insuf)    .03914     .23820         40    
+Regular.VATime                                  --         --         --         --          0
+Regular.NVATime                                 --         --         --         --          0
+Regular.WaitTime                                --         --         --         --          0
+Regular.TranTime                                --         --         --         --          0
+Regular.OtherTime                               --         --         --         --          0
+Regular.TotalTime                               --         --         --         --          0
+Security Check for Regular.Queue.WaitingTi      --         --         --         --          0
+Security Check for VIP.Queue.WaitingTime    .03630     (Insuf)    .00000     .20005         41    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+VIP.WIP                                     9.0123     (Insuf)    .00000     18.000     17.000    
+Regular.WIP                                 64.428     (Insuf)    .00000     127.00     127.00    
+Special Security Guard.NumberBusy           .95261     (Insuf)    .00000     1.0000     1.0000    
+Special Security Guard.NumberScheduled      1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Security Guard.Utilization          .95261     (Insuf)    .00000     1.0000     1.0000    
+Shammi.NumberBusy                           .00000     (Insuf)    .00000     .00000     .00000    
+Shammi.NumberScheduled                      .00000     (Insuf)    .00000     .00000     .00000    
+Shammi.Utilization                          .00000     (Insuf)    .00000     .00000     .00000    
+Sohag.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Sohag.NumberScheduled                       .00000     (Insuf)    .00000     .00000     .00000    
+Sohag.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Rakib.NumberBusy                            .00000     (Insuf)    .00000     .00000     .00000    
+Rakib.NumberScheduled                       .00000     (Insuf)    .00000     .00000     .00000    
+Rakib.Utilization                           .00000     (Insuf)    .00000     .00000     .00000    
+Security Check for Regular.Queue.NumberInQ  64.428     (Insuf)    .00000     127.00     127.00    
+Security Check for VIP.Queue.NumberInQueue  8.0597     (Insuf)    .00000     17.000     16.000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+VIP.NumberIn                                57.000    
+VIP.NumberOut                               40.000    
+Regular.NumberIn                            127.00    
+Regular.NumberOut                           .00000    
+Special Security Guard.NumberSeized         41.000    
+Special Security Guard.ScheduledUtilizatio  .95261    
+Shammi.NumberSeized                         .00000    
+Shammi.ScheduledUtilization                 .00000    
+Sohag.NumberSeized                          .00000    
+Sohag.ScheduledUtilization                  .00000    
+Rakib.NumberSeized                          .00000    
+Rakib.ScheduledUtilization                  .00000    
+System.NumberOut                            40.000    
+
+
+Simulation run time: 8.13 minutes.
+Simulation run completed with 1 error(s) and 0 warning(s).

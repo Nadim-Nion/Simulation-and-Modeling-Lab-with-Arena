@@ -1,0 +1,23 @@
+[RESOURCES]
+Rework Resource
+Sealer Resource
+Part B Resource
+Part A Resource
+[VARIABLES]
+Decide 2.NumberOut False
+Shipped.NumberOut
+Part B Arrival.NumberOut
+Part A Arrival.NumberOut
+Scrapped and Shipped.NumberOut
+Rework.NumberOut
+Rework.NumberIn
+Part A Prep.NumberOut
+Part B Prep.NumberOut
+Part A Prep.NumberIn
+Part B Prep.NumberIn
+Scrapped.NumberOut
+Sealer.NumberOut
+Sealer.NumberIn
+Decide.NumberOut False
+Decide.NumberOut True
+Decide 2.NumberOut True

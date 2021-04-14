@@ -1,0 +1,1033 @@
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 1 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23406     (Insuf)    .17765     .28554         63    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         63    
+Individual A.WaitTime                       .06771     (Insuf)    .00000     .31530         63    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         63    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         63    
+Individual A.TotalTime                      .30177     (Insuf)    .19034     .50314         63    
+Individual B.VATime                         .39532     (Insuf)    .30367     .50390         54    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         54    
+Individual B.WaitTime                       .17384     (Insuf)    .00000     .64994         54    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         54    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         54    
+Individual B.TotalTime                      .56916     (Insuf)    .31496     1.0028         54    
+Renew or Apply License.Queue.WaitingTime    .17758     (Insuf)    .00000     .64994         56    
+Purchasing Plate.Queue.WaitingTime          .06228     (Insuf)    .00000     .31530         65    
+Daily Special Care Service.Queue.WaitingTi  .00493     (Insuf)    .00000     .06292         85    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.3836     (Insuf)    .00000     6.0000     2.0000    
+Individual B.WIP                            3.9863     (Insuf)    .00000     9.0000     2.0000    
+Neil.NumberBusy                             .86856     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .86856     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .36008     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .36008     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .90119     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .90119     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .74501     (Insuf)    .00000     1.0000     .00000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .74501     (Insuf)    .00000     1.0000     .00000    
+Mary.NumberBusy                             .77671     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .77671     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .91706     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .91706     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  1.2430     (Insuf)    .00000     6.0000     .00000    
+Purchasing Plate.Queue.NumberInQueue        .50599     (Insuf)    .00000     4.0000     .00000    
+Daily Special Care Service.Queue.NumberInQ  .05238     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       65.000    
+Individual A.NumberOut                      63.000    
+Individual B.NumberIn                       56.000    
+Individual B.NumberOut                      54.000    
+Neil.NumberSeized                           22.000    
+Neil.ScheduledUtilization                   .86856    
+Special Care.NumberSeized                   85.000    
+Special Care.ScheduledUtilization           .36008    
+Jean.NumberSeized                           19.000    
+Jean.ScheduledUtilization                   .90119    
+Kathy.NumberSeized                          29.000    
+Kathy.ScheduledUtilization                  .74501    
+Mary.NumberSeized                           30.000    
+Mary.ScheduledUtilization                   .77671    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .91706    
+System.NumberOut                            117.00    
+
+Beginning replication 2 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 2 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23285     (Insuf)    .15430     .27819         63    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         63    
+Individual A.WaitTime                       .07408     (Insuf)    .00000     .31725         63    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         63    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         63    
+Individual A.TotalTime                      .30693     (Insuf)    .16008     .54322         63    
+Individual B.VATime                         .40511     (Insuf)    .31380     .49546         44    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         44    
+Individual B.WaitTime                       .11511     (Insuf)    .00000     .48391         44    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         44    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         44    
+Individual B.TotalTime                      .52022     (Insuf)    .31380     .82738         44    
+Renew or Apply License.Queue.WaitingTime    .11601     (Insuf)    .00000     .48391         46    
+Purchasing Plate.Queue.WaitingTime          .08840     (Insuf)    .00000     .50278         66    
+Daily Special Care Service.Queue.WaitingTi  .00420     (Insuf)    .00000     .04977         85    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.7096     (Insuf)    .00000     9.0000     6.0000    
+Individual B.WIP                            3.0512     (Insuf)    .00000     7.0000     3.0000    
+Neil.NumberBusy                             .88076     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .88076     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .36408     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .36408     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .69032     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .69032     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .72353     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .72353     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .72750     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .72750     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .79635     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .79635     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  .71232     (Insuf)    .00000     4.0000     1.0000    
+Purchasing Plate.Queue.NumberInQueue        .82143     (Insuf)    .00000     7.0000     3.0000    
+Daily Special Care Service.Queue.NumberInQ  .04459     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       69.000    
+Individual A.NumberOut                      63.000    
+Individual B.NumberIn                       47.000    
+Individual B.NumberOut                      44.000    
+Neil.NumberSeized                           23.000    
+Neil.ScheduledUtilization                   .88076    
+Special Care.NumberSeized                   85.000    
+Special Care.ScheduledUtilization           .36408    
+Jean.NumberSeized                           15.000    
+Jean.ScheduledUtilization                   .69032    
+Kathy.NumberSeized                          29.000    
+Kathy.ScheduledUtilization                  .72353    
+Mary.NumberSeized                           28.000    
+Mary.ScheduledUtilization                   .72750    
+Sue.NumberSeized                            17.000    
+Sue.ScheduledUtilization                    .79635    
+System.NumberOut                            107.00    
+
+Beginning replication 3 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 3 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23791     (Insuf)    .15108     .29176         71    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         71    
+Individual A.WaitTime                       .19700     (Insuf)    .00000     .75954         71    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         71    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         71    
+Individual A.TotalTime                      .43491     (Insuf)    .15108     1.0319         71    
+Individual B.VATime                         .39383     (Insuf)    .30418     .50752         55    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         55    
+Individual B.WaitTime                       .41476     (Insuf)    .00000     1.2718         55    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         55    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         55    
+Individual B.TotalTime                      .80859     (Insuf)    .30418     1.7183         55    
+Renew or Apply License.Queue.WaitingTime    .39459     (Insuf)    .00000     1.2621         58    
+Purchasing Plate.Queue.WaitingTime          .18701     (Insuf)    .00000     .72904         73    
+Daily Special Care Service.Queue.WaitingTi  .00695     (Insuf)    .00000     .05272        101    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            3.8762     (Insuf)    .00000     9.0000     2.0000    
+Individual B.WIP                            5.7468     (Insuf)    .00000     14.000     4.0000    
+Neil.NumberBusy                             .97497     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .97497     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .43049     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .43049     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .93105     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .93105     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .82549     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .82549     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .84762     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .84762     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .92613     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .92613     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  2.8930     (Insuf)    .00000     11.000     1.0000    
+Purchasing Plate.Queue.NumberInQueue        1.7064     (Insuf)    .00000     7.0000     .00000    
+Daily Special Care Service.Queue.NumberInQ  .08779     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       73.000    
+Individual A.NumberOut                      71.000    
+Individual B.NumberIn                       59.000    
+Individual B.NumberOut                      55.000    
+Neil.NumberSeized                           24.000    
+Neil.ScheduledUtilization                   .97497    
+Special Care.NumberSeized                   101.00    
+Special Care.ScheduledUtilization           .43049    
+Jean.NumberSeized                           21.000    
+Jean.ScheduledUtilization                   .93105    
+Kathy.NumberSeized                          33.000    
+Kathy.ScheduledUtilization                  .82549    
+Mary.NumberSeized                           33.000    
+Mary.ScheduledUtilization                   .84762    
+Sue.NumberSeized                            20.000    
+Sue.ScheduledUtilization                    .92613    
+System.NumberOut                            126.00    
+
+Beginning replication 4 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 4 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23676     (Insuf)    .15434     .28901         79    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         79    
+Individual A.WaitTime                       .13777     (Insuf)    .00000     .59990         79    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         79    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         79    
+Individual A.TotalTime                      .37453     (Insuf)    .18715     .86811         79    
+Individual B.VATime                         .40424     (Insuf)    .29076     .48897         48    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         48    
+Individual B.WaitTime                       .19191     (Insuf)    .00000     .63459         48    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         48    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         48    
+Individual B.TotalTime                      .59615     (Insuf)    .34349     1.0046         48    
+Renew or Apply License.Queue.WaitingTime    .19029     (Insuf)    .00000     .62664         51    
+Purchasing Plate.Queue.WaitingTime          .13002     (Insuf)    .00000     .59990         81    
+Daily Special Care Service.Queue.WaitingTi  .00826     (Insuf)    .00000     .07534        102    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            3.7629     (Insuf)    .00000     9.0000     3.0000    
+Individual B.WIP                            3.7315     (Insuf)    .00000     9.0000     3.0000    
+Neil.NumberBusy                             .94695     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .94695     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .44102     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .44102     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .82362     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .82362     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .87542     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .87542     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .86388     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .86388     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .90107     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .90107     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  1.2131     (Insuf)    .00000     6.0000     .00000    
+Purchasing Plate.Queue.NumberInQueue        1.3241     (Insuf)    .00000     7.0000     1.0000    
+Daily Special Care Service.Queue.NumberInQ  .10531     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       82.000    
+Individual A.NumberOut                      79.000    
+Individual B.NumberIn                       51.000    
+Individual B.NumberOut                      48.000    
+Neil.NumberSeized                           26.000    
+Neil.ScheduledUtilization                   .94695    
+Special Care.NumberSeized                   102.00    
+Special Care.ScheduledUtilization           .44102    
+Jean.NumberSeized                           19.000    
+Jean.ScheduledUtilization                   .82362    
+Kathy.NumberSeized                          33.000    
+Kathy.ScheduledUtilization                  .87542    
+Mary.NumberSeized                           34.000    
+Mary.ScheduledUtilization                   .86388    
+Sue.NumberSeized                            20.000    
+Sue.ScheduledUtilization                    .90107    
+System.NumberOut                            127.00    
+
+Beginning replication 5 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 5 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23401     (Insuf)    .17531     .28179         73    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         73    
+Individual A.WaitTime                       .19047     (Insuf)    .00000     .58060         73    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         73    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         73    
+Individual A.TotalTime                      .42448     (Insuf)    .19075     .86239         73    
+Individual B.VATime                         .39526     (Insuf)    .29878     .50162         57    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         57    
+Individual B.WaitTime                       .37998     (Insuf)    .00000     .83713         57    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         57    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         57    
+Individual B.TotalTime                      .77524     (Insuf)    .31971     1.2750         57    
+Renew or Apply License.Queue.WaitingTime    .38376     (Insuf)    .00000     .81558         59    
+Purchasing Plate.Queue.WaitingTime          .19343     (Insuf)    .00000     .60008         76    
+Daily Special Care Service.Queue.WaitingTi  .01031     (Insuf)    .00000     .08247        103    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            4.5712     (Insuf)    .00000     14.000     14.000    
+Individual B.WIP                            5.7872     (Insuf)    .00000     11.000     5.0000    
+Neil.NumberBusy                             .92132     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .92132     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .44896     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .44896     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .90745     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .90745     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .91551     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .91551     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .91743     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .91743     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .95336     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .95336     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  2.8749     (Insuf)    .00000     8.0000     3.0000    
+Purchasing Plate.Queue.NumberInQueue        2.2867     (Insuf)    .00000     11.000     11.000    
+Daily Special Care Service.Queue.NumberInQ  .13279     (Insuf)    .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       87.000    
+Individual A.NumberOut                      73.000    
+Individual B.NumberIn                       62.000    
+Individual B.NumberOut                      57.000    
+Neil.NumberSeized                           23.000    
+Neil.ScheduledUtilization                   .92132    
+Special Care.NumberSeized                   103.00    
+Special Care.ScheduledUtilization           .44896    
+Jean.NumberSeized                           20.000    
+Jean.ScheduledUtilization                   .90745    
+Kathy.NumberSeized                          35.000    
+Kathy.ScheduledUtilization                  .91551    
+Mary.NumberSeized                           36.000    
+Mary.ScheduledUtilization                   .91743    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .95336    
+System.NumberOut                            130.00    
+
+Beginning replication 6 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 6 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23000     (Insuf)    .15573     .27770         59    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         59    
+Individual A.WaitTime                       .12970     (Insuf)    .00000     .57462         59    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         59    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         59    
+Individual A.TotalTime                      .35970     (Insuf)    .17560     .79206         59    
+Individual B.VATime                         .38973     (Insuf)    .29937     .47829         53    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         53    
+Individual B.WaitTime                       .22589     (Insuf)    .00000     .56973         53    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         53    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         53    
+Individual B.TotalTime                      .61562     (Insuf)    .34077     .99254         53    
+Renew or Apply License.Queue.WaitingTime    .25068     (Insuf)    .00000     .72757         57    
+Purchasing Plate.Queue.WaitingTime          .13891     (Insuf)    .00000     .57462         61    
+Daily Special Care Service.Queue.WaitingTi  .00498     (Insuf)    .00000     .04431         87    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.8801     (Insuf)    .00000     9.0000     5.0000    
+Individual B.WIP                            4.9174     (Insuf)    .00000     13.000     13.000    
+Neil.NumberBusy                             .89689     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .89689     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .35203     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .35203     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .87040     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .87040     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .66392     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .66392     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .70149     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .70149     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .90439     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .90439     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  2.2031     (Insuf)    .00000     10.000     9.0000    
+Purchasing Plate.Queue.NumberInQueue        1.1511     (Insuf)    .00000     7.0000     3.0000    
+Daily Special Care Service.Queue.NumberInQ  .05413     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       64.000    
+Individual A.NumberOut                      59.000    
+Individual B.NumberIn                       66.000    
+Individual B.NumberOut                      53.000    
+Neil.NumberSeized                           23.000    
+Neil.ScheduledUtilization                   .89689    
+Special Care.NumberSeized                   87.000    
+Special Care.ScheduledUtilization           .35203    
+Jean.NumberSeized                           20.000    
+Jean.ScheduledUtilization                   .87040    
+Kathy.NumberSeized                          27.000    
+Kathy.ScheduledUtilization                  .66392    
+Mary.NumberSeized                           27.000    
+Mary.ScheduledUtilization                   .70149    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .90439    
+System.NumberOut                            112.00    
+
+Beginning replication 7 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 7 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23709     (Insuf)    .16591     .28761         67    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         67    
+Individual A.WaitTime                       .03755     (Insuf)    .00000     .20289         67    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         67    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         67    
+Individual A.TotalTime                      .27463     (Insuf)    .16591     .44251         67    
+Individual B.VATime                         .40983     (Insuf)    .33333     .50487         36    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         36    
+Individual B.WaitTime                       .06102     (Insuf)    .00000     .32134         36    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         36    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         36    
+Individual B.TotalTime                      .47084     (Insuf)    .33333     .75142         36    
+Renew or Apply License.Queue.WaitingTime    .07899     (Insuf)    .00000     .52026         39    
+Purchasing Plate.Queue.WaitingTime          .03304     (Insuf)    .00000     .20289         69    
+Daily Special Care Service.Queue.WaitingTi  .00817     (Insuf)    .00000     .07473         79    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.3308     (Insuf)    .00000     7.0000     3.0000    
+Individual B.WIP                            2.5078     (Insuf)    .00000     9.0000     6.0000    
+Neil.NumberBusy                             .85883     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .85883     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .33372     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .33372     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .64658     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .64658     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .71315     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .71315     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .68685     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .68685     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .70344     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .70344     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  .52881     (Insuf)    .00000     6.0000     3.0000    
+Purchasing Plate.Queue.NumberInQueue        .28669     (Insuf)    .00000     3.0000     1.0000    
+Daily Special Care Service.Queue.NumberInQ  .08063     (Insuf)    .00000     3.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       70.000    
+Individual A.NumberOut                      67.000    
+Individual B.NumberIn                       42.000    
+Individual B.NumberOut                      36.000    
+Neil.NumberSeized                           25.000    
+Neil.ScheduledUtilization                   .85883    
+Special Care.NumberSeized                   79.000    
+Special Care.ScheduledUtilization           .33372    
+Jean.NumberSeized                           14.000    
+Jean.ScheduledUtilization                   .64658    
+Kathy.NumberSeized                          28.000    
+Kathy.ScheduledUtilization                  .71315    
+Mary.NumberSeized                           26.000    
+Mary.ScheduledUtilization                   .68685    
+Sue.NumberSeized                            15.000    
+Sue.ScheduledUtilization                    .70344    
+System.NumberOut                            103.00    
+
+Beginning replication 8 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 8 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .22889     (Insuf)    .17185     .28777         61    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         61    
+Individual A.WaitTime                       .04075     (Insuf)    .00000     .31525         61    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         61    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         61    
+Individual A.TotalTime                      .26963     (Insuf)    .17185     .51057         61    
+Individual B.VATime                         .39476     (Insuf)    .29735     .51020         43    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         43    
+Individual B.WaitTime                       .04729     (Insuf)    .00000     .21361         43    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         43    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         43    
+Individual B.TotalTime                      .44205     (Insuf)    .31517     .67878         43    
+Renew or Apply License.Queue.WaitingTime    .05953     (Insuf)    .00000     .35407         46    
+Purchasing Plate.Queue.WaitingTime          .04345     (Insuf)    .00000     .31525         64    
+Daily Special Care Service.Queue.WaitingTi  .00489     (Insuf)    .00000     .06403         74    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.1575     (Insuf)    .00000     7.0000     3.0000    
+Individual B.WIP                            2.5401     (Insuf)    .00000     6.0000     6.0000    
+Neil.NumberBusy                             .82648     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .82648     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .31094     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .31094     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .77937     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .77937     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .61307     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .61307     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .63263     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .63263     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .78463     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .78463     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  .35774     (Insuf)    .00000     3.0000     3.0000    
+Purchasing Plate.Queue.NumberInQueue        .34759     (Insuf)    .00000     4.0000     .00000    
+Daily Special Care Service.Queue.NumberInQ  .04523     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       64.000    
+Individual A.NumberOut                      61.000    
+Individual B.NumberIn                       49.000    
+Individual B.NumberOut                      43.000    
+Neil.NumberSeized                           25.000    
+Neil.ScheduledUtilization                   .82648    
+Special Care.NumberSeized                   74.000    
+Special Care.ScheduledUtilization           .31094    
+Jean.NumberSeized                           18.000    
+Jean.ScheduledUtilization                   .77937    
+Kathy.NumberSeized                          25.000    
+Kathy.ScheduledUtilization                  .61307    
+Mary.NumberSeized                           25.000    
+Mary.ScheduledUtilization                   .63263    
+Sue.NumberSeized                            17.000    
+Sue.ScheduledUtilization                    .78463    
+System.NumberOut                            104.00    
+
+Beginning replication 9 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 9 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .24096     (Insuf)    .16044     .28390         68    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         68    
+Individual A.WaitTime                       .14243     (Insuf)    .00000     .60310         68    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         68    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         68    
+Individual A.TotalTime                      .38339     (Insuf)    .19252     .84080         68    
+Individual B.VATime                         .37201     (Insuf)    .30265     .48866         56    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         56    
+Individual B.WaitTime                       .20941     (Insuf)    .00000     .56793         56    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         56    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         56    
+Individual B.TotalTime                      .58141     (Insuf)    .32126     .96194         56    
+Renew or Apply License.Queue.WaitingTime    .22264     (Insuf)    .00000     .58646         59    
+Purchasing Plate.Queue.WaitingTime          .13374     (Insuf)    .00000     .60310         70    
+Daily Special Care Service.Queue.WaitingTi  .00623     (Insuf)    .00000     .05277         95    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            3.3188     (Insuf)    .00000     10.000     3.0000    
+Individual B.WIP                            4.8657     (Insuf)    .00000     15.000     15.000    
+Neil.NumberBusy                             .92215     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .92215     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .40447     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .40447     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .97034     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .97034     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .76357     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .76357     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .80070     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .80070     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .92363     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .92363     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  2.1382     (Insuf)    .00000     12.000     12.000    
+Purchasing Plate.Queue.NumberInQueue        1.1875     (Insuf)    .00000     7.0000     1.0000    
+Daily Special Care Service.Queue.NumberInQ  .07399     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       71.000    
+Individual A.NumberOut                      68.000    
+Individual B.NumberIn                       71.000    
+Individual B.NumberOut                      56.000    
+Neil.NumberSeized                           26.000    
+Neil.ScheduledUtilization                   .92215    
+Special Care.NumberSeized                   95.000    
+Special Care.ScheduledUtilization           .40447    
+Jean.NumberSeized                           23.000    
+Jean.ScheduledUtilization                   .97034    
+Kathy.NumberSeized                          29.000    
+Kathy.ScheduledUtilization                  .76357    
+Mary.NumberSeized                           30.000    
+Mary.ScheduledUtilization                   .80070    
+Sue.NumberSeized                            21.000    
+Sue.ScheduledUtilization                    .92363    
+System.NumberOut                            124.00    
+
+Beginning replication 10 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 10 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23855     (Insuf)    .17472     .28524         77    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         77    
+Individual A.WaitTime                       .11969     (Insuf)    .00000     .39260         77    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         77    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         77    
+Individual A.TotalTime                      .35825     (Insuf)    .17679     .59018         77    
+Individual B.VATime                         .39155     (Insuf)    .31659     .49345         48    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         48    
+Individual B.WaitTime                       .23038     (Insuf)    .00000     .63218         48    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         48    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         48    
+Individual B.TotalTime                      .62193     (Insuf)    .31871     .98291         48    
+Renew or Apply License.Queue.WaitingTime    .21377     (Insuf)    .00000     .62141         50    
+Purchasing Plate.Queue.WaitingTime          .11188     (Insuf)    .00000     .33759         79    
+Daily Special Care Service.Queue.WaitingTi  .00867     (Insuf)    .00000     .06320        104    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            3.5011     (Insuf)    .00000     7.0000     2.0000    
+Individual B.WIP                            3.7766     (Insuf)    .00000     9.0000     2.0000    
+Neil.NumberBusy                             .91449     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .91449     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .45540     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .45540     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .77366     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .77366     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .84703     (Insuf)    .00000     1.0000     .00000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .84703     (Insuf)    .00000     1.0000     .00000    
+Mary.NumberBusy                             .88950     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .88950     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .84415     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .84415     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  1.3360     (Insuf)    .00000     6.0000     .00000    
+Purchasing Plate.Queue.NumberInQueue        1.1048     (Insuf)    .00000     5.0000     .00000    
+Daily Special Care Service.Queue.NumberInQ  .11270     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       79.000    
+Individual A.NumberOut                      77.000    
+Individual B.NumberIn                       50.000    
+Individual B.NumberOut                      48.000    
+Neil.NumberSeized                           26.000    
+Neil.ScheduledUtilization                   .91449    
+Special Care.NumberSeized                   104.00    
+Special Care.ScheduledUtilization           .45540    
+Jean.NumberSeized                           18.000    
+Jean.ScheduledUtilization                   .77366    
+Kathy.NumberSeized                          33.000    
+Kathy.ScheduledUtilization                  .84703    
+Mary.NumberSeized                           34.000    
+Mary.ScheduledUtilization                   .88950    
+Sue.NumberSeized                            18.000    
+Sue.ScheduledUtilization                    .84415    
+System.NumberOut                            125.00    
+
+Beginning replication 11 of 30
+
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 11 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23319     (Insuf)    .16816     .28515         80    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000         80    
+Individual A.WaitTime                       .15162     (Insuf)    .00000     .49068         80    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000         80    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000         80    
+Individual A.TotalTime                      .38481     (Insuf)    .17037     .69727         80    
+Individual B.VATime                         .39938     (Insuf)    .30948     .50092         54    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000         54    
+Individual B.WaitTime                       .27125     (Insuf)    .00000     .90886         54    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000         54    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000         54    
+Individual B.TotalTime                      .67063     (Insuf)    .34608     1.3384         54    
+Renew or Apply License.Queue.WaitingTime    .26202     (Insuf)    .00000     .90173         57    
+Purchasing Plate.Queue.WaitingTime          .14691     (Insuf)    .00000     .49068         82    
+Daily Special Care Service.Queue.WaitingTi  .00642     (Insuf)    .00000     .05212         99    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            3.9722     (Insuf)    .00000     8.0000     6.0000    
+Individual B.WIP                            4.7650     (Insuf)    .00000     11.000     5.0000    
+Neil.NumberBusy                             .98791     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .98791     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .41753     (Insuf)    .00000     1.0000     .00000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .41753     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberBusy                             .98452     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .98452     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberBusy                            .90414     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .90414     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .93764     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .93764     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberBusy                              .95192     (Insuf)    .00000     1.0000     1.0000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .95192     (Insuf)    .00000     1.0000     1.0000    
+Renew or Apply License.Queue.NumberInQueue  1.9136     (Insuf)    .00000     7.0000     2.0000    
+Purchasing Plate.Queue.NumberInQueue        1.5605     (Insuf)    .00000     6.0000     4.0000    
+Daily Special Care Service.Queue.NumberInQ  .07949     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       86.000    
+Individual A.NumberOut                      80.000    
+Individual B.NumberIn                       59.000    
+Individual B.NumberOut                      54.000    
+Neil.NumberSeized                           25.000    
+Neil.ScheduledUtilization                   .98791    
+Special Care.NumberSeized                   99.000    
+Special Care.ScheduledUtilization           .41753    
+Jean.NumberSeized                           22.000    
+Jean.ScheduledUtilization                   .98452    
+Kathy.NumberSeized                          35.000    
+Kathy.ScheduledUtilization                  .90414    
+Mary.NumberSeized                           37.000    
+Mary.ScheduledUtilization                   .93764    
+Sue.NumberSeized                            20.000    
+Sue.ScheduledUtilization                    .95192    
+System.NumberOut                            134.00    
+
+Beginning replication 12 of 30
+SIMAN Run Controller.
+
+0.96158322 Hours>
+                                      ARENA Simulation Results
+                                       ahsanmasum46@yahoo.com
+
+                                  Summary for Replication 12 of 30
+
+Project: Unnamed Project                                             Run execution date : 4/ 4/2021
+Analyst: ahsanmasum46@yahoo.com                                      Model revision date: 4/ 4/2021
+
+Replication ended at time      : 0.96158322 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Individual A.VATime                         .23709     (Insuf)    .20646     .26957          8    
+Individual A.NVATime                        .00000     (Insuf)    .00000     .00000          8    
+Individual A.WaitTime                       .03532     (Insuf)    .00000     .11553          8    
+Individual A.TranTime                       .00000     (Insuf)    .00000     .00000          8    
+Individual A.OtherTime                      .00000     (Insuf)    .00000     .00000          8    
+Individual A.TotalTime                      .27241     (Insuf)    .21065     .36411          8    
+Individual B.VATime                         .44421     (Insuf)    .42422     .47950          3    
+Individual B.NVATime                        .00000     (Insuf)    .00000     .00000          3    
+Individual B.WaitTime                       .03341     (Insuf)    .00000     .09123          3    
+Individual B.TranTime                       .00000     (Insuf)    .00000     .00000          3    
+Individual B.OtherTime                      .00000     (Insuf)    .00000     .00000          3    
+Individual B.TotalTime                      .47761     (Insuf)    .42890     .57073          3    
+Renew or Apply License.Queue.WaitingTime    .03041     (Insuf)    .00000     .09123          3    
+Purchasing Plate.Queue.WaitingTime          .02128     (Insuf)    .00000     .11553         11    
+Daily Special Care Service.Queue.WaitingTi  .00681     (Insuf)    .00000     .05229          9    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Individual A.WIP                            2.7118     (Insuf)    .00000     5.0000     3.0000    
+Individual B.WIP                            1.4900     (Insuf)    .00000     3.0000     .00000    
+Neil.NumberBusy                             .47118     (Insuf)    .00000     1.0000     1.0000    
+Neil.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Neil.Utilization                            .47118     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberBusy                     .33099     (Insuf)    .00000     1.0000     1.0000    
+Special Care.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Special Care.Utilization                    .33099     (Insuf)    .00000     1.0000     1.0000    
+Jean.NumberBusy                             .39360     (Insuf)    .00000     1.0000     .00000    
+Jean.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Jean.Utilization                            .39360     (Insuf)    .00000     1.0000     .00000    
+Kathy.NumberBusy                            .83311     (Insuf)    .00000     1.0000     1.0000    
+Kathy.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Kathy.Utilization                           .83311     (Insuf)    .00000     1.0000     1.0000    
+Mary.NumberBusy                             .85635     (Insuf)    .00000     1.0000     .00000    
+Mary.NumberScheduled                        1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mary.Utilization                            .85635     (Insuf)    .00000     1.0000     .00000    
+Sue.NumberBusy                              .91468     (Insuf)    .00000     1.0000     .00000    
+Sue.NumberScheduled                         1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Sue.Utilization                             .91468     (Insuf)    .00000     1.0000     .00000    
+Renew or Apply License.Queue.NumberInQueue  .09487     (Insuf)    .00000     1.0000     .00000    
+Purchasing Plate.Queue.NumberInQueue        .24340     (Insuf)    .00000     2.0000     .00000    
+Daily Special Care Service.Queue.NumberInQ  .06373     (Insuf)    .00000     2.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Individual A.NumberIn                       11.000    
+Individual A.NumberOut                      8.0000    
+Individual B.NumberIn                       3.0000    
+Individual B.NumberOut                      3.0000    
+Neil.NumberSeized                           3.0000    
+Neil.ScheduledUtilization                   .47118    
+Special Care.NumberSeized                   9.0000    
+Special Care.ScheduledUtilization           .33099    
+Jean.NumberSeized                           1.0000    
+Jean.ScheduledUtilization                   .39360    
+Kathy.NumberSeized                          4.0000    
+Kathy.ScheduledUtilization                  .83311    
+Mary.NumberSeized                           4.0000    
+Mary.ScheduledUtilization                   .85635    
+Sue.NumberSeized                            2.0000    
+Sue.ScheduledUtilization                    .91468    
+System.NumberOut                            11.000    
+
